@@ -1,6 +1,6 @@
 # One Step Closer
 
-One step closer is a simple game written in python 3.
+One step closer is a game where player needs to reach destination taking shortest path.
 
 Rules:
 ------------------------------------------------------
