@@ -1,5 +1,4 @@
 # One Step Closer
-==================
 
 One step closer is a simple game written in python 3.
 
