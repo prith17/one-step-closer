@@ -1,5 +1,7 @@
 # One Step Closer
 
+![ONC](https://user-images.githubusercontent.com/33975431/62428421-69e51200-b71f-11e9-87f9-a7f81c28b98d.png)
+
 One step closer is a game where player needs to reach destination taking shortest path.
 
 Rules:
